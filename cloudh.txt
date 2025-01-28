@@ -1,0 +1,183 @@
+Moving to the Cloud
+What is Cloud Computing?
+Cloud Terminologies
+Cloud Characteristics
+The Private Cloud Deployment Model
+The Public Cloud Deployment Model
+The Community Cloud Deployment Model
+The Hybrid Cloud Deployment Model
+Common Implementation Obstacles
+The Two Types of Business Cloud Models
+Transitioning from SOA to Cloud
+Cloud Service Providers
+How Cloud Computing Adds Value to a Business
+Calculating the Cost of the Cloud
+
+Cloud Service Models & Benefits and Issues
+The SaaS Service Model
+The PaaS Service Model
+The IaaS Service Model
+Other Cloud Computing Service Models
+Development of Cloud Computing
+Benefits of Cloud Computing
+Disadvantages to Using Cloud Computing
+Regulatory and Compliance Issues
+Security in Cloud Computing
+Usage Scenarios for Cloud Computing
+Deciding to Move to the Cloud
+
+Cloud Computing Basics
+History of Cloud Computing
+Cloud Computing Key Enabling Technologies
+Definition of Cloud Computing
+Cloud Computing Core Attributes
+Core Cloud Computing Service Models
+XaaS Cloud Computing Service Models
+
+
+Cloud Computing Considerations
+Evaluating Cloud Security
+Evaluating Cloud Services
+Cloud Service Level Agreements
+Business and Consumer Cloud Services
+Cloud Compliance and Regulatory Issues
+Barriers to Cloud Adoption
+Cloud Service Stacks
+Infrastructure as a Service
+Platform as a Service
+Software as a Service
+Costing the Cloud
+Cloud Deployment Models
+Cloud Costing Models
+Assessing Applications for the Cloud
+Choosing a Cloud Service
+
+
+Cloud Virtualization and Data Centers
+Virtualization Overview
+Hardware Virtualization
+Hypervisors
+Desktop Virtualization
+Network Functions Virtualization
+Storage Virtualization
+Virtualization and the Cloud
+x86 Server Virtualization Products
+Oracle and IBM Server Virtualization Products
+Data Center Overview
+Data Center Function
+Cloud Data Centers
+Business Trends in Cloud Computing
+Technical Trends in Cloud Computing
+Data Center Applications
+Cloud Data Center Components
+Virtualization and the Cloud Data Center
+
+
+Storing & Managing Cloud Data
+Storage as a Service
+STaaS Model Advantages
+STaaS Model Risks
+STaaS Providers
+Cloud Storage Governance Domains
+Cloud Storage Governance Issues
+Cloud Storage and Privacy Concerns
+Cloud Storage Data Classification
+Cloud Storage and Data Security
+
+
+Cloud Protocols & Standards
+Cloud Standards
+Cloud Standards Groups
+Cloud Security Protocols
+Cloud Security Recommendations
+Cloud Protocols and Standards
+Cloud APIs
+Web Standards
+Open Source Overview
+Open Source Cloud and N-Tier Architecture
+OpenStack Overview
+Mobile Cloud Clients
+Managing Storage, Governance and Standards
+
+
+Migrating to the Cloud
+Service Oriented Architecture
+SOA Benefits
+SOA and Cloud Computing
+SOA Architectures
+Grid Computing vs Cloud Computing
+Planning Cloud Deployment
+Cloud Service Directory
+Migrating Processes and Services
+Loosely and Tightly Coupled Services
+Technical Factors
+Business Factors
+Assessing Candidate Cloud Platforms
+Issues with Public Clouds
+Mitigating Public Cloud Concerns
+Private and Hybrid Clouds
+Migrating to the Cloud
+
+
+Cloud Access Control
+Identity and Access Management Basic Concepts
+Reasons for Identity Federation
+Identity and Access Management Operational Areas
+Cloud Service Providers and IAM
+Federation Overview
+Cloud Federation Considerations
+Standards Based Federation
+Single Sign-On Overview
+Benefits and Risks of Single Sign-On
+Identity as a Service Overview
+Identity as a Service Challenges
+Integrating IDaaS and Other Service Models
+IDaaS Pros and Cons
+
+
+Cloud Presence & Privacy
+Presence Information Overview
+Presence System Components
+Presence Process and Tools
+Presence Security
+Cloud Privacy Concerns
+Privacy Policies
+Data Life Cycle
+Data Security Challenges
+Mapping Security Measures to the Data Life Cycle
+Controlling Access to Cloud Data
+
+
+Cloud Security
+Information Security Objectives
+Cloud Security Challenges
+Cloud Security Models
+Information Security Standards
+Security as a Service
+The Cloud Cube Model
+Cloud Network Infrastructure Security
+Host Level Security
+Virtualization Host Security
+Application Level Security
+
+
+Cloud Risk Management
+Cloud Security Risk Areas
+Assessing Cloud Service Security Offerings
+SaaS Security Challenges
+SaaS Security Best Practice
+Secure Software Development
+Securing Data at Rest and Data in Transit
+Cloud Security Risk Assessment
+Cloud Security SLAs
+Managing Cloud Data Security
+
+
+Cloud Concepts - Principles of cloud computing
+What is cloud computing?
+Benefits of cloud computing
+Compliance terms and requirements
+Economies of scale
+Capital expenditure (CapEx) versus operational expenditure (OpEx)
+Cloud deployment models
+Types of cloud services

@@ -1,0 +1,89 @@
+Introduction to Azure
+What is Azure?
+Tour of Azure services
+Create a virtual machine
+Add a web server
+Scale up
+
+
+Azure architecture and service guarantees
+Datacenters and Regions in Azure
+Geographies, Availability Zones & Region Pairs
+Service Level Agreements for Azure
+Composing SLAs across services
+Improve your app reliability
+
+
+Create an Azure account
+Azure accounts and subscriptions
+Using multiple Azure subscriptions
+Authenticate access with Azure Active Directory
+Exercise - Create an Azure account
+Azure support options
+
+
+Manage services with the Azure portal
+Azure management options
+Navigate the portal
+Exercise - Work with blades
+Exercise - Use the Azure portal
+Azure Portal dashboards
+Exercise - Customize the dashboard
+Access public and private preview features
+
+
+Azure Compute options
+Essential Azure compute concepts
+Explore Azure Virtual Machines
+Explore Containers in Azure
+Explore Azure App Service
+Explore Serverless computing in Azure
+
+
+Azure Data storage options
+Benefits of using Azure to store data
+How Azure data storage can meet your business storage needs
+Comparison between Azure data storage and on-premises storage
+
+
+Azure Networking options
+Deploy your site to Azure
+Scale with Azure Load Balancer
+Reduce latency with Azure Traffic Manager
+
+
+Security, responsibility and trust in Azure
+Cloud security is a shared responsibility
+Get tips from Azure Security Center
+Identity and access
+Encryption
+Protect your network
+Protect your shared documents
+Azure Advanced Threat Protection
+
+
+Apply and monitor infrastructure standards with Azure Policy
+Define IT compliance with Azure Policy
+Organize policy with initiatives
+Enterprise governance management
+Define standard resources with Azure Blueprints
+Explore your service compliance with Compliance Manager
+Monitor your service health
+
+
+Control and organize Azure resources with Azure Resource Manager
+Principles of resource groups
+Use tagging to organize resources
+Use policies to enforce standards
+Secure resources with role-based access control
+Use resource locks to protect resources
+
+
+Predict costs and optimize spending for Azure
+Purchasing Azure products and services
+Factors affecting costs
+Estimate costs with the Azure pricing calculator
+Predict and optimize with Cost Management and Azure Advisor
+Estimate the Total Cost of Ownership with the Azure TCO calculator
+Save on infrastructure costs
+Save on licensing costs
